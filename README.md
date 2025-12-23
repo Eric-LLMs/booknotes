@@ -1,6 +1,6 @@
 # Book Notes
 
-## 📚 Book Notes: Introduction to AI Agents
+# 📚 Book Note: Introduction to AI Agents
 
 ### Here are my study notes
 
@@ -24,4 +24,31 @@
 > 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
 [📥 View the "AI Agent Architecture Operations and Evolution" Slides (PDF)](agents-architecture-operations-slides.pdf)   
 [📥 **Download PDF** (Direct Link)](./agents-architecture-operations-slides.pdf?raw=true)  
+> 
+  
+     
+# 📚 Book Note: Building LLMs for Production 
+
+### Here are my study notes
+
+### 🧠 Mind Map (Key Concepts)
+  [📥 **Download High-Resolution Mind Map** (.jpg)](./Building LLMs for Production Mind Map.jpg?raw=true)
+  <br>  
+<details>
+  <summary>
+    <h3>🔍 Click here to unfold the full Mind Map (Building LLMs for Production Mind Map.jpg)  
+    <br> 
+    <br> (点击展开完整思维导图)
+    </h3>
+  </summary>
+
+  ![Building LLMs for Production Mind Map](Building LLMs for Production Mind Map.jpg)
+ 
+</details>
+
+
+### 📑 Presentation Slides
+> 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
+[📥 View the "Building LLMs for Production" Slides (PDF)](Building LLMs for Production Slides.pdf)   
+[📥 **Download PDF** (Direct Link)](./Building LLMs for Production Slides.pdf?raw=true)  
 > 
