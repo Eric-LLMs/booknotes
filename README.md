@@ -32,8 +32,8 @@
 ### Here are my study notes
 
 ### 🧠 Mind Map (Key Concepts)
-  [📥 **Download High-Resolution Mind Map** (.jpg)](./Building LLMs for Production Mind Map.jpg?raw=true)
-  <br>  
+[📥 **Download High-Resolution Mind Map** (.jpg)](./Building%20LLMs%20for%20Production%20Mind%20Map.jpg?raw=true)
+<br>  
 <details>
   <summary>
     <h3>🔍 Click here to unfold the full Mind Map (Building LLMs for Production Mind Map.jpg)  
@@ -42,13 +42,12 @@
     </h3>
   </summary>
 
-  ![Building LLMs for Production Mind Map](Building LLMs for Production Mind Map.jpg)
+  ![Building LLMs for Production Mind Map](Building%20LLMs%20for%20Production%20Mind%20Map.jpg)
  
 </details>
 
 
 ### 📑 Presentation Slides
 > 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
-[📥 View the "Building LLMs for Production" Slides (PDF)](Building LLMs for Production Slides.pdf)   
-[📥 **Download PDF** (Direct Link)](./Building LLMs for Production Slides.pdf?raw=true)  
-> 
+[📥 View the "Building LLMs for Production" Slides (PDF)](Building%20LLMs%20for%20Production%20Slides.pdf)   
+[📥 **Download PDF** (Direct Link)](./Building%20LLMs%20for%20Production%20Slides.pdf?raw=true)
