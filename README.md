@@ -65,7 +65,7 @@ To bridge theory with practice, I developed a modular AI Agent project that impl
   
 
 ### 🛠️ Hands-on Lab & Examples
-The production-grade principles discussed in this book—including **Fine-Tuning**, **RAG optimization**, **LangChain**, **Prompt Engineering**, **Function-Calling**, etc.—have each been researched as a standalone module, and each module features multiple project implementations.
+The production-grade principles discussed in this book—including **Fine-Tuning**, **RAG optimization**, **LangChain**, **Prompt Engineering**, **Function-Calling**, **Agent**, etc.—have each been researched as a standalone module, and each module features multiple project implementations.
 
 👉 [**Explore Practical LLM Examples in LLMs-Lab on Eric-LLMs GitHub**](https://github.com/Eric-LLMs/LLMs-Lab)
 
