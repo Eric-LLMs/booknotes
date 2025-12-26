@@ -4,10 +4,10 @@
 
 ## 📑 Table of Contents
 
-| 📚 Book Title                  | 🔗 Quick Link                        |
-|:------------------------------|:-------------------------------------|
-| Introduction to AI Agents     |[🔍 Explore](#introduction-to-ai-agents)     |
-| Building LLMs for Production  |[🔍 Explore](#building-llms-for-production)  |
+| 📚 Book Title                  | 🔗 Quick Link                               |
+|:------------------------------|:--------------------------------------------|
+| Introduction to AI Agents     | [🔍 Explore](#introduction-to-ai-agents)    |
+| Building LLMs for Production  | [🔍 Explore](#building-llms-for-production) |
 
 ---
 <br>  
