@@ -6,11 +6,12 @@
 
 ## 📑 Table of Contents
 
-| 📚 Book Title                 | 🔗 Quick Link                                                        |
-|:------------------------------|:---------------------------------------------------------------------|
-| Introduction to AI Agents     | [🔍 Explore](#introduction-to-ai-agents)                             |
-| Building LLMs for Production  | [🔍 Explore](#building-llms-for-production)                          |
-| Mastering the Model Context Protocol (MCP)  | [🔍 Explore](#mastering-the-model-context-protocol)                             |
+| 📚 Book Title                              | 🔗 Quick Link                                       |
+|:-------------------------------------------|:----------------------------------------------------|
+| Introduction to AI Agents                  | [🔍 Explore](#introduction-to-ai-agents)            |
+| Building LLMs for Production               | [🔍 Explore](#building-llms-for-production)         |
+| Mastering the Model Context Protocol (MCP) | [🔍 Explore](#mastering-the-model-context-protocol) |
+| Agent Memory Part I                        | [🔍 Explore](#agent-memory-part-i)                  |
 
 ---
 <br>  
@@ -126,4 +127,35 @@ The production-grade principles discussed in this book—including **Fine-Tuning
 ---
 <br>  
 
+<a id="agent-memory-part-i"></a>   
+ 
+# 📚 Book Note: Agent Memory Part I 
+
+### Here are my study notes
+
+### 🧠 Mind Map (Key Concepts)
+[📥 **Download High-Resolution Mind Map** (.jpg)](./summaries/memory-in-the-age-of-ai-agents-survey/unforgettable_agents_architecting_ai_memory-mindmap.jpg?raw=true)
+<br>  
+<details>
+  <summary>
+    <b><em>🔍 Click here to unfold the full Mind Map (unforgettable_agents_architecting_ai_memory-mindmap.jpg)</em>
+    <br> (点击展开完整思维导图)
+    </b>
+  </summary>
+
+  ![Unforgettable Agents Architecting AI Memory](./summaries/memory-in-the-age-of-ai-agents-survey/unforgettable_agents_architecting_ai_memory-mindmap.jpg)
+ 
+</details>
+
+
+### 📑 Presentation Slides
+> 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
+[📥 View the "Unforgettable Agents Architecting AI Memory" Slides (PDF)](./summaries/f)   
+[📥 **Download PDF** (Direct Link)](./summaries/s.pdf?raw=true)
+  
+
+
+[⬆️ Back to Top : Table of Contents](#top)  
+---
+<br>  
 
