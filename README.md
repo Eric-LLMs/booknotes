@@ -173,4 +173,42 @@ For a comprehensive list of papers related to Agent Memory, we highly recommend 
 <br>  
 
   
+<a id="agent-memory-part-ii"></a>   
+ 
+# 📚 Book Note: Agent Memory Part II
+
+### Here are my study notes
+
+### 🧠 Mind Map (Key Concepts)
+[📥 **Download High-Resolution Mind Map** (.jpg)](./summaries/.jpg?raw=true)
+<br>  
+<details>
+  <summary>
+    <b><em>🔍 Click here to unfold the full Mind Map (mindmap.jpg)</em>
+    <br> (点击展开完整思维导图)
+    </b>
+  </summary>
+
+  ![memory soltion in pruduction](./summaries/.jpg)
+ 
+</details>
+
+
+### 📑 Presentation Slides   
+  
+#### A Blueprint for Memory in Agentic Intelligence
+> 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
+[📥 View the "agent memory soltion in pruduction" Slides (PDF)](./summaries/e.pdf)   
+[📥 **Download PDF** (Direct Link)](./summaries/m.pdf?raw=true)
+  
+#### Unforgettable Agents Architecting AI Memory
+> 💡 **Tip:** Press `Ctrl` + `Click` (or Command + Click) to open in a new tab.   
+[📥 View the "agent memory soltion in pruduction" Slides (PDF)](./summaries/y.pdf)   
+[📥 **Download PDF** (Direct Link)](./summaries/y.pdf?raw=true)
+
+
+
+[⬆️ Back to Top : Table of Contents](#top)  
+---
+<br>  
 
